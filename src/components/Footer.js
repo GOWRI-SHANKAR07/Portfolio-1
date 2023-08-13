@@ -13,9 +13,9 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Soumyajit Behera</h3>
-        </Col>
+        // <Col md="4" className="footer-copywright">
+        //   <h3>Designed and Developed by Gowri Shankar</h3>
+        // </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} SB</h3>
         </Col>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/GOWRI-SHANKAR07"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://twitter.com/Gowri_Shankar_N?t=CtxEGr3eqUeG_wgN4XbQkw&s=09"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/gowri-shankar-n-5a9507214"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://instagram.com/n_g_s_649?igshid=ZDc4ODBmNjlmNQ=="
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
